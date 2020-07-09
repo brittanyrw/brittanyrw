@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://miro.medium.com/max/4800/1*hYykgQ8NUjyZQHxjL9F02A.png)
+
 <!--
 **brittanyrw/brittanyrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
