@@ -7,7 +7,7 @@
   <p>🍿 <a href="https://github.com/brittanyrw/musicalpicks" target="_blank">Musical Picks</a>: quiz app that will recommend movie musicals.</p>
   <p>🗺 <a href="https://github.com/brittanyrw/mappingmusicals" target="_blank">Mapping Musicals</a>: map of winners of best musical @ the tonys.</p>
   <p>💵 <a href="https://github.com/brittanyrw/hamilton-quiz-app" target="_blank">Hamilton Quiz</a>: test your hamilton the musical knowledge.</p>
-  <p>👀 <a href="https://github.com/brittanyrw/bittheaterv1" target="_blank">BitTheater</a>: your ultimate theater show resource</p>
+  <p>👀 <a href="https://github.com/brittanyrw/bittheaterv1" target="_blank">BitTheater</a>: your ultimate theater show resource.</p>
 </div>
  
 
