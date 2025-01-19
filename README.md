@@ -4,7 +4,7 @@
 <div>
   <p><strong>check out some of my musical theater related projects</strong></p>
   <p>📖 <a href="https://github.com/brittanyrw/theaterlog" target="_blank">TheaterLog</a>: a log of all musicals I have seen since 2010.</p>
-  <p>👀 <a href="https://github.com/brittanyrw/Periodic-Table-of-Broadway" target="_blank">Periodic Table of Broadway</a>: if elements were broadway shows.</p>
+  <p>🧬 <a href="https://github.com/brittanyrw/Periodic-Table-of-Broadway" target="_blank">Periodic Table of Broadway</a>: if elements were broadway shows.</p>
   <p>🍿 <a href="https://github.com/brittanyrw/musicalpicks" target="_blank">Musical Picks</a>: quiz app that will recommend movie musicals.</p>
   <p>🗺 <a href="https://github.com/brittanyrw/mappingmusicals" target="_blank">Mapping Musicals</a>: map of winners of best musical @ the tonys.</p>
   <p>💵 <a href="https://github.com/brittanyrw/hamilton-quiz-app" target="_blank">Hamilton Quiz</a>: test your hamilton the musical knowledge.</p>
