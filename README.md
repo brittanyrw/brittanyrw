@@ -4,7 +4,7 @@
 <div>
   <p><strong>check out some of my projects</strong></p>
   <p>📖 <a href="https://github.com/brittanyrw/theaterlog" target="_blank">TheaterLog</a>: a log of all musicals I have seen since 2010.</p>
-  <p>⚖️ <a href="https://github.com/brittanyrw/law-and-order-broadway-edition" target="_blank">Law & Order: Broadway</a>: data visulization of broadway actors in law & order.</p>
+  <p>⚖️ <a href="https://github.com/brittanyrw/law-and-order-broadway-edition" target="_blank">Law & Order: Broadway</a>: data vis of broadway actors in law & order.</p>
   <p>🪦 <a href="https://github.com/brittanyrw/millennials-slay" target="_blank">Millennials Slay</a>: directory of things that millennials have 'killed'.</p>
   <p>🧬 <a href="https://github.com/brittanyrw/Periodic-Table-of-Broadway" target="_blank">Periodic Table of Broadway</a>: if elements were broadway shows.</p>
   <p>🍿 <a href="https://github.com/brittanyrw/musicalpicks" target="_blank">Musical Picks</a>: quiz app that will recommend movie musicals.</p>
